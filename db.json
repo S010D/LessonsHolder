@@ -4,6 +4,10 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
+  "other": [
+    { "id": 1, "body": "some comment", "qq": 3 "qwe": "asd 1", },
+    { "id": 2, "body": "some comment", "qq": 4 "qwe": "asd 2", }
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }

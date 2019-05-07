@@ -1,18 +1,48 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "other": [
-    { "id": 1, "body": "some comment", "qq": 3, "qwe": "asd 1" },
-    { "id": 2, "body": "some comment", "qq": 4, "qwe": "asd 2" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "lessons": [
+    {
+      "id": 658,
+      "group_id": [
+        7,
+        8
+      ],
+      "group_title": [
+        "Дкт-151п",
+        "Дкт-151б"
+      ],
+      "week": 4,
+      "date": "2019.04.10",
+      "category": "Лекция",
+      "cathedra": "Кафедра управления информационными системами и программирования",
+      "campus": "Нежинская",
+      "classroom": "Нежинская, 7 корпус 2 - 25",
+      "teacher_id": 12,
+      "teacher_title": "Лыкошин Александр Сергеевич",
+      "type": "Дисциплины по выбору",
+      "name": "Системы искусственного интеллекта",
+      "number_exercise": 4
+    },
+    {
+      "id": 659,
+      "group_id": [
+        7,
+        8
+      ],
+      "group_title": [
+        "Дкт-151п",
+        "Дкт-151б"
+      ],
+      "week": 4,
+      "date": "2019.04.10",
+      "category": "Практическое занятие",
+      "cathedra": "Кафедра управления информационными системами и программирования",
+      "campus": "Нежинская",
+      "classroom": "Нежинская, 7 корпус 2 - 25",
+      "teacher_id": 12,
+      "teacher_title": "Лыкошин Александр Сергеевич",
+      "type": "Дисциплины по выбору",
+      "name": "Системы искусственного интеллекта",
+      "number_exercise": 5
+    }
+  ]
 }

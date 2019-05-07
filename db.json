@@ -4,40 +4,6 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "lessons": [
-  {
-    "id": 658,
-    "group_id": [7, 8],
-    "group_title": ["Dkt-151p", "Dkt-151b"],
-    "week": 4,
-    "date": "2019.04.10",
-    "category": "Lekciya",
-    "cathedra": "Kafedra upravleniya informacionnymi sistemami i programmirovaniya",
-    "campus": "Nezhinskaya",
-    "classroom": "Nezhinskaya, 7 korpus 2 - 25",
-    "teacher_id": 12,
-    "teacher_title":"Lykoshin Aleksandr Sergeevich",
-    "type": "Discipliny po vyboru",
-    "name": "Sistemy iskusstvennogo intellekta",
-    "number_exercise": 4,
-  },
-  {
-    "id": 659,
-    "group_id": [7, 8],
-    "group_title": ["Dkt-151p", "Dkt-151b"],
-    "week": 4,
-    "date": "2019.04.10",
-    "category": "Prakticheskoe zanyatie",
-    "cathedra": "Kafedra upravleniya informacionnymi sistemami i programmirovaniya",
-    "campus": "Nezhinskaya",
-    "classroom": "Nezhinskaya, 7 korpus 2 - 25",
-    "teacher_id": 12,
-    "teacher_title":"Lykoshin Aleksandr Sergeevich",
-    "type": "Discipliny po vyboru",
-    "name": "Sistemy iskusstvennogo intellekta",
-    "number_exercise": 5,
-  }
-  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
